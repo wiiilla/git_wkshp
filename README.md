@@ -1,4 +1,4 @@
 # git_wkshp
-![SODA logo](https://github.com/Bcromas/git_wkshp/blob/master/assets/soda_tiny.PNG) Practice repo for SODA's workshop on Git.![SODA logo](https://github.com/Bcromas/git_wkshp/blob/master/assets/soda_tiny.PNG)
+![SODA logo](assets/soda_tiny.PNG) <div style="font-size: 25px"><strong> Practice repo for SODA's workshop on Git.</strong>
 
-![Git basics](https://github.com/Bcromas/git_wkshp/blob/master/assets/git_basics.PNG)
+![Git basics](assets/git_basics.PNG)
