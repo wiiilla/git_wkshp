@@ -1,9 +1,9 @@
 MEMBER_1 = "Willa"
-MEMBER_2 = "Elham"
+MEMBER_2 = "Elha"
 MEMBER_3 = "Ramon"
 
 MEMBER_1_HOME = "Shanghai, China"
-MEMBER_2_HOME = "Tehran, Iran"
+MEMBER_2_HOME = "Tehra, Ira"
 MEMBER_3_HOME = "Monterrey, Mexico"
 
 MEMBERS = {
