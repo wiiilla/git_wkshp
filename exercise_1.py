@@ -1,4 +1,4 @@
-MEMBER_1 = "Bill"
+MEMBER_1 = "Tiffany"
 MEMBER_2 = "Allen"
 MEMBER_3 = "Ramon"
 
