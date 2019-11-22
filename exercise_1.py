@@ -1,5 +1,5 @@
 MEMBER_1 = "Willa"
-MEMBER_2 = "Elham"
+MEMBER_2 = "Elhami e man"
 MEMBER_3 = "Morteza"
 
 MEMBER_1_HOME = "Shanghai, China"
